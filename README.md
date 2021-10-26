@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @LucRoGH
--
 - 🌱 I’m currently learning ...
-
 - 📫 How to reach me ...
 
 <!---
